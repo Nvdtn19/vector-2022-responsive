@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vector 2022 Responsive
 // @namespace    https://wikimedia.org/
-// @version      1.2
+// @version      1.0
 // @description  Intercept and rewrite viewport meta before first paint across all WMF wikis and translatewiki
 // @match        https://*.wikipedia.org/*
 // @match        https://*.wikimedia.org/*
