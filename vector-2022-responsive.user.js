@@ -2,7 +2,7 @@
 // @name         Vector 2022 Responsive
 // @namespace    https://wikimedia.org/
 // @version      1.0
-// @description  Intercept and rewrite viewport meta before first paint across all WMF wikis and translatewiki
+// @description  Forces responsive mobile layout for Vector 2022 across all Wikimedia wikis and translatewiki.⁠ Intercept and rewrite viewport meta tag before first paint to force responsive Vector 2022.⁠
 // @match        https://*.wikipedia.org/*
 // @match        https://*.wikimedia.org/*
 // @match        https://*.wiktionary.org/*
